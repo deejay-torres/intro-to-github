@@ -18,9 +18,8 @@ Author
 | File | Description |
 |------|-------------|
 | 📄 README.md | You're reading it! |
-| 🗂️ file1 | Sample file uploaded for the assignment |
-| 🗂️ file2 | Another sample file |
-| 🗂️ file3 | One more sample file |
+| 🗂️ file1 | Google Form Header (1)|
+| 🗂️ file2 | MDASH-UNO |
 
 "Every great project starts with `git init`." 💻✨
 
